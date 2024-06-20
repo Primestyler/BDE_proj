@@ -1,4 +1,4 @@
-Id,Ranked by Filter,World Rank,City,Average Traveltime,Change From 2022,Congestion level,Time lost per year,Average speed
+Id,Ranked by Filter,World Rank,City,Average Traveltime per 10 km,Change From 2022,Congestion level in %,Time lost per year (in hours),Average speed (in km/h)
 1,1,1,London,37 min 20 s,+ 1 min,45,148 hours,14 km/h
 2,2,2,Dublin,29 min 30 s,+ 1 min,66,158 hours,16 km/h
 3,3,3,Toronto,29 min,+ 50 s,42,98 hours,18 km/h
